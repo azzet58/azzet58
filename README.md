@@ -1,16 +1,28 @@
-## Hi there 👋
+### Sup, I'm Akin 
 
-<!--
-**azzet58/azzet58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer based in The Hague, NL — self-taught, MBO Software Developer graduate.
+I craft clean, performant interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+Next.js · Tailwind CSS · TypeScript · Framer Motion
+
+---
+
+**Projects**
+
+[Özad Elektrotechniek](https://github.com/azzet58/ozad-elektrotechniek)
+Production client site for Özad Elektrotechniek - an electrician company.
+Built with Next.js, Tailwind CSS, TypeScript, shadcn/ui, Framer Motion and Resend.
+
+[Portfolio](https://github.com/azzet58/portfolio-akin-gultekin)
+Personal portfolio website.
+Built with Next.js, Tailwind CSS, TypeScript, Framer Motion and Resend.
+
+---
+
+**Currently**
+
+- Open to Junior Frontend Developer roles in the Netherlands
